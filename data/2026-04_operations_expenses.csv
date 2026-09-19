@@ -1,0 +1,27 @@
+전표번호,사용일,부서,항목,거래처,금액(원),승인상태,사번,내역
+EX-202604-OP-01,2026-04-11,운영,Software,Slack,"603,000",승인,O149,Software expense
+EX-202604-OP-02,2026-04-20,Operations,교육비,Korea Management Institute,"1,595,000",Approved,O144,Training expense
+EX-202604-OP-03,2026-04-08,운영,교육비,Coursera,"934,000",승인,O157,Training expense
+EX-202604-OP-04,2026-04-17,Operations,Office Supplies,Alpha Stationery,28000,Approved,O144,Office Supplies expense
+EX-202604-OP-05,2026-04-20,OPS,Logistics,Lotte Global Logistics,729000,Approved,O146,Logistics expense
+EX-202604-OP-06,2026-04-17,Operations,Software,Slack,770000,Y,O155,Software expense
+EX-202604-OP-07,2026-04-20,운영,사무용품,Alpha Stationery,367000,검토중,O141,Office Supplies expense
+EX-202604-OP-08,2026-04-08,운영,Logistics,CJ Logistics,616000,Approved,O144,Logistics expense
+EX-202604-OP-09,2026-04-18,운영,사무용품,Office Depot,"385,000",승인,O154,Office Supplies expense
+EX-202604-OP-10,2026-04-10,OPS,Training,Coursera,"1,449,000",Pending,O147,Training expense
+EX-202604-OP-11,2026-04-19,Operations,Training,Coursera,"1,788,000",승인,O154,Training expense
+EX-202604-OP-12,2026-04-22,OPS,물류비,CJ Logistics,"992,000",승인,O145,Logistics expense
+EX-202604-OP-13,2026-04-25,Operations,소프트웨어,Slack,"148,000",Pending,O157,Software expense
+EX-202604-OP-14,2026-04-04,Operations,소프트웨어,Notion,"752,000",N,O149,Software expense
+EX-202604-OP-15,2026-04-01,OPS,L&D,Coursera,769000,Y,O153,
+EX-202604-OP-16,2026-04-19,운영,Logistics,CJ Logistics,875000,Y,O144,Logistics expense
+EX-202604-OP-17,2026-04-13,OPS,소프트웨어,DataCloud Korea,"528,000",Y,O156,Software expense
+EX-202604-OP-18,2026-04-15,운영,Office Supplies,Alpha Stationery,44000,승인,O151,Office Supplies expense
+EX-202604-OP-19,2026-04-22,OPS,SaaS,Notion,"251,000",Approved,O148,Software expense
+EX-202604-OP-20,2026-04-02,OPS,L&D,Fast Campus,"165,000",Y,O144,Training expense
+EX-202604-OP-21,2026-04-15,Operations,SaaS,Notion,819000,Y,O157,Software expense
+EX-202604-OP-22,2026-04-03,Operations,사무용품,Office Depot,390000,Rejected,O155,Office Supplies expense
+EX-202604-OP-23,2026-04-05,운영,Software,DataCloud Korea,"648,000",검토중,O157,Software expense
+EX-202604-OP-24,2026-04-26,Operations,Delivery,Quick Service Seoul,143000,승인,O141,Logistics expense
+EX-202604-OP-25,2026-04-07,운영,Logistics,Lotte Global Logistics,974000,Y,O140,Logistics expense
+EX-202604-OP-26,2026-04-11,Operations,Office Supplies,Alpha Stationery,360000,Approved,O153,Office Supplies expense

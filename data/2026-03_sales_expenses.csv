@@ -1,0 +1,25 @@
+expense_id,transaction_date,team,expense_type,supplier,amount,approval,employee,memo
+EX-202603-SA-01,03/06/2026,Sales,출장비,Korean Air,265000,승인,S124,Travel expense
+EX-202603-SA-02,03/26/2026,Sales,식비,Baemin,64000,승인,S133,
+EX-202603-SA-03,03/14/2026,SLS,Meals,Local Restaurant,173000,승인,S127,Meals expense
+EX-202603-SA-04,03/07/2026,SLS,Client Events,COEX,1034000,Y,S129,Client Events expense
+EX-202603-SA-05,03/04/2026,Sales,소프트웨어,Notion,183000,Y,S125,Software expense
+EX-202603-SA-06,03/25/2026,영업,Software,Slack,"142,000",Y,S137,Software expense
+EX-202603-SA-07,03/18/2026,Sales,고객행사,EventWorks,"2,340,000",Pending,S130,Client Events expense
+EX-202603-SA-08,03/13/2026,SLS,Meals,Office Cafe,70000,Approved,S123,Meals expense
+EX-202603-SA-09,03/09/2026,영업,Events,EventWorks,3212000,Review,S122,Client Events expense
+EX-202603-SA-10,03/07/2026,Sales,Events,COEX,3465000,Approved,S123,Client Events expense
+EX-202603-SA-11,03/25/2026,영업,소프트웨어,DataCloud Korea,"205,000",Y,S135,Software expense
+EX-202603-SA-12,03/24/2026,Sales,SaaS,DataCloud Korea,366000,승인,S128,Software expense
+EX-202603-SA-13,03/15/2026,SLS,Events,COEX,2089000,Y,S133,Client Events expense
+EX-202603-SA-14,03/14/2026,영업,출장비,Korean Air,680000,검토중,S128,Travel expense
+EX-202603-SA-15,03/06/2026,영업,출장비,Kakao T,612000,승인,S122,
+EX-202603-SA-16,03/22/2026,영업,Client Events,COEX,"1,261,000",승인,S120,Client Events expense
+EX-202603-SA-17,03/15/2026,SLS,SaaS,Slack,822000,N,S125,Software expense
+EX-202603-SA-18,03/24/2026,Sales,Meals,Local Restaurant,187000,승인,S126,Meals expense
+EX-202603-SA-19,03/08/2026,SLS,Events,COEX,1946000,승인,S121,Client Events expense
+EX-202603-SA-20,03/18/2026,SLS,Meals,Office Cafe,"53,000",Approved,S133,Meals expense
+EX-202603-SA-21,03/20/2026,SLS,식비,Local Restaurant,"93,000",Y,S133,Meals expense
+EX-202603-SA-22,03/24/2026,Sales,출장비,Kakao T,228000,Pending,S121,Travel expense
+EX-202603-SA-23,03/27/2026,영업,Events,EventWorks,1226000,Approved,S128,Client Events expense
+EX-202603-SA-24,03/25/2026,Sales,고객행사,Grand Seoul Hotel,"512,000",Y,S123,Client Events expense

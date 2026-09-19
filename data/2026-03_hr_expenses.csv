@@ -1,0 +1,21 @@
+ID,Expense Date,Dept,Cost Category,Merchant,Total,Approved?,Staff ID,Note
+EX-202603-HR-01,2026-03-23,People,Food,Baemin,223000,Approved,H170,Meals expense
+EX-202603-HR-02,2026-03-27,HR,Training,Korea Management Institute,1514000,Approved,H174,Training expense
+EX-202603-HR-03,2026-03-17,People,사무용품,Office Depot,"515,000",Approved,H165,Office Supplies expense
+EX-202603-HR-04,2026-03-23,인사,Meals,Baemin,28000,Y,H167,Meals expense
+EX-202603-HR-05,2026-03-24,인사,사무용품,Office Depot,438000,승인,H165,Office Supplies expense
+EX-202603-HR-06,2026-03-17,People,식비,Office Cafe,"217,000",Approved,H164,Meals expense
+EX-202603-HR-07,2026-03-25,인사,교육비,Coursera,"968,000",승인,H168,Training expense
+EX-202603-HR-08,2026-03-01,HR,Hiring,JobKorea,"390,000",승인,H168,Recruiting expense
+EX-202603-HR-09,2026-03-17,People,Office Supplies,Alpha Stationery,"461,000",Approved,H177,Office Supplies expense
+EX-202603-HR-10,2026-03-25,인사,L&D,Fast Campus,617000,Y,H165,Training expense
+EX-202603-HR-11,2026-03-27,인사,교육비,Fast Campus,"1,324,000",Y,H170,Training expense
+EX-202603-HR-12,2026-03-13,People,사무용품,Coupang Business,"304,000",승인,H171,Office Supplies expense
+EX-202603-HR-13,2026-03-15,HR,L&D,Korea Management Institute,1314000,Approved,H174,Training expense
+EX-202603-HR-14,2026-03-08,HR,Meals,Baemin,"143,000",Approved,H176,Meals expense
+EX-202603-HR-15,2026-03-04,HR,채용비,Saramin,2307000,승인,H167,Recruiting expense
+EX-202603-HR-16,2026-03-15,HR,Food,Local Restaurant,"104,000",Y,H165,
+EX-202603-HR-17,2026-03-17,인사,Recruiting,JobKorea,818000,Pending,H175,Recruiting expense
+EX-202603-HR-18,2026-03-18,People,Recruiting,JobKorea,"2,016,000",승인,H173,Recruiting expense
+EX-202603-HR-19,2026-03-12,인사,채용비,Wanted,"1,671,000",Approved,H176,Recruiting expense
+EX-202603-HR-20,2026-03-16,HR,Supplies,Office Depot,516000,Y,H173,Office Supplies expense

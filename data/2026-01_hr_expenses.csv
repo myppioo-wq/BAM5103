@@ -1,0 +1,24 @@
+ID,Expense Date,Dept,Cost Category,Merchant,Total,Approved?,Staff ID,Note
+EX-202601-HR-01,2026-01-13,HR,채용비,Wanted,2003000,Rejected,H163,Recruiting expense
+EX-202601-HR-02,2026-01-02,HR,Training,Korea Management Institute,753000,Y,H164,Training expense
+EX-202601-HR-03,2026-01-24,HR,Meals,Local Restaurant,207000,Approved,H161,Meals expense
+EX-202601-HR-04,2026-01-02,People,교육비,Coursera,1056000,검토중,H177,Training expense
+EX-202601-HR-05,2026-01-25,HR,교육비,Korea Management Institute,"490,000",Approved,H160,Training expense
+EX-202601-HR-06,2026-01-27,People,채용비,JobKorea,478000,승인,H177,Recruiting expense
+EX-202601-HR-07,2026-01-25,HR,식비,Baemin,"252,000",Review,H167,Meals expense
+EX-202601-HR-08,2026-01-19,HR,채용비,Saramin,1890000,승인,H163,Recruiting expense
+EX-202601-HR-09,2026-01-05,인사,Office Supplies,Office Depot,250000,Pending,H173,Office Supplies expense
+EX-202601-HR-10,2026-01-25,인사,교육비,Coursera,1867000,Y,H164,Training expense
+EX-202601-HR-11,2026-01-15,HR,Office Supplies,Coupang Business,"512,000",승인,H169,Office Supplies expense
+EX-202601-HR-12,2026-01-20,HR,채용비,Saramin,"1,258,000",승인,H173,Recruiting expense
+EX-202601-HR-13,2026-01-25,People,Hiring,Saramin,2437000,Approved,H175,Recruiting expense
+EX-202601-HR-14,2026-01-20,HR,Hiring,Saramin,"1,979,000",Approved,H162,Recruiting expense
+EX-202601-HR-15,2026-01-06,People,Supplies,Alpha Stationery,"555,000",Approved,H172,Office Supplies expense
+EX-202601-HR-16,2026-01-19,People,Meals,Baemin,"29,000",Y,H170,Meals expense
+EX-202601-HR-17,2026-01-12,인사,교육비,Coursera,1566000,Y,H164,Training expense
+EX-202601-HR-18,2026-01-11,People,Training,Fast Campus,988000,승인,H174,Training expense
+EX-202601-HR-19,2026-01-18,People,L&D,Coursera,"674,000",승인,H162,Training expense
+EX-202601-HR-20,2026-01-08,People,Food,Office Cafe,141000,Approved,H176,
+EX-202601-HR-21,2026-01-03,인사,사무용품,Office Depot,463000,Approved,H165,Office Supplies expense
+EX-202601-HR-22,2026-01-08,인사,교육비,Fast Campus,1218000,Review,H160,Training expense
+EX-202601-HR-23,2026-01-15,HR,교육비,Coursera,1347000,Y,H172,Training expense

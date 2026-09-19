@@ -1,0 +1,22 @@
+expense_id,transaction_date,team,expense_type,supplier,amount,approval,employee,memo
+EX-202605-SA-01,05/19/2026,영업,Client Events,EventWorks,"3,161,000",Approved,S133,Client Events expense
+EX-202605-SA-02,05/09/2026,SLS,SaaS,DataCloud Korea,"599,000",Y,S133,Software expense
+EX-202605-SA-03,05/08/2026,Sales,Business Travel,Kakao T,625000,Approved,S121,Travel expense
+EX-202605-SA-04,05/12/2026,영업,식비,Local Restaurant,"19,000",Y,S130,Meals expense
+EX-202605-SA-05,05/21/2026,SLS,Software,Notion,"238,000",Approved,S136,Software expense
+EX-202605-SA-06,05/02/2026,영업,Software,Slack,323000,검토중,S122,Software expense
+EX-202605-SA-07,05/10/2026,SLS,고객행사,EventWorks,2046000,Approved,S127,Client Events expense
+EX-202605-SA-08,05/26/2026,SLS,소프트웨어,Notion,"842,000",Y,S129,Software expense
+EX-202605-SA-09,05/07/2026,Sales,Events,COEX,"3,361,000",Approved,S126,Client Events expense
+EX-202605-SA-10,05/16/2026,영업,Travel,Kakao T,464000,Approved,S122,Travel expense
+EX-202605-SA-11,05/19/2026,Sales,소프트웨어,Slack,"915,000",반려,S128,Software expense
+EX-202605-SA-12,05/06/2026,SLS,소프트웨어,DataCloud Korea,"734,000",Review,S132,Software expense
+EX-202605-SA-13,05/13/2026,SLS,Meals,Baemin,"229,000",Review,S135,Meals expense
+EX-202605-SA-14,05/15/2026,영업,Events,Grand Seoul Hotel,2094000,Approved,S120,Client Events expense
+EX-202605-SA-15,05/17/2026,영업,Software,Notion,"393,000",검토중,S121,
+EX-202605-SA-16,05/13/2026,Sales,Client Events,EventWorks,"2,386,000",승인,S122,Client Events expense
+EX-202605-SA-17,05/03/2026,SLS,Business Travel,Korean Air,304000,승인,S134,Travel expense
+EX-202605-SA-18,05/13/2026,Sales,식비,Baemin,254000,승인,S124,Meals expense
+EX-202605-SA-19,05/07/2026,SLS,식비,Baemin,"253,000",Y,S125,Meals expense
+EX-202605-SA-20,05/02/2026,Sales,Food,Local Restaurant,"52,000",승인,S120,Meals expense
+EX-202605-SA-21,05/10/2026,Sales,식비,Local Restaurant,"42,000",N,S134,Meals expense

@@ -1,0 +1,25 @@
+ID,Expense Date,Dept,Cost Category,Merchant,Total,Approved?,Staff ID,Note
+EX-202605-HR-01,2026-05-18,인사,Meals,Office Cafe,"220,000",승인,H168,Meals expense
+EX-202605-HR-02,2026-05-09,People,Hiring,Saramin,"2,283,000",승인,H172,Recruiting expense
+EX-202605-HR-03,2026-05-02,인사,Training,Korea Management Institute,235000,승인,H173,Training expense
+EX-202605-HR-04,2026-05-19,HR,채용비,Saramin,"1,710,000",승인,H177,Recruiting expense
+EX-202605-HR-05,2026-05-09,HR,Hiring,Saramin,2095000,Y,H170,Recruiting expense
+EX-202605-HR-06,2026-05-07,People,채용비,Saramin,1652000,승인,H177,
+EX-202605-HR-07,2026-05-17,인사,Food,Office Cafe,66000,검토중,H161,Meals expense
+EX-202605-HR-08,2026-05-08,HR,L&D,Korea Management Institute,360000,Y,H170,Training expense
+EX-202605-HR-09,2026-05-20,HR,Meals,Baemin,"84,000",승인,H168,Meals expense
+EX-202605-HR-10,2026-05-11,HR,사무용품,Office Depot,"146,000",Y,H171,Office Supplies expense
+EX-202605-HR-11,2026-05-05,HR,Food,Office Cafe,41000,N,H170,Meals expense
+EX-202605-HR-12,2026-05-14,인사,Supplies,Alpha Stationery,351000,Review,H161,Office Supplies expense
+EX-202605-HR-13,2026-05-19,인사,L&D,Korea Management Institute,915000,Y,H164,Training expense
+EX-202605-HR-14,2026-05-13,People,Food,Baemin,"79,000",반려,H165,Meals expense
+EX-202605-HR-15,2026-05-15,People,Meals,Office Cafe,"151,000",승인,H169,Meals expense
+EX-202605-HR-16,2026-05-08,People,Recruiting,Wanted,1722000,Approved,H167,Recruiting expense
+EX-202605-HR-17,2026-05-22,HR,사무용품,Coupang Business,"292,000",승인,H165,Office Supplies expense
+EX-202605-HR-18,2026-05-23,People,Supplies,Office Depot,"179,000",Approved,H161,Office Supplies expense
+EX-202605-HR-19,2026-05-22,People,L&D,Fast Campus,826000,Y,H174,Training expense
+EX-202605-HR-20,2026-05-15,HR,Hiring,Wanted,868000,승인,H171,Recruiting expense
+EX-202605-HR-21,2026-05-21,People,Hiring,Wanted,2008000,Approved,H176,Recruiting expense
+EX-202605-HR-22,2026-05-26,HR,식비,Office Cafe,"33,000",Y,H163,Meals expense
+EX-202605-HR-23,2026-05-01,인사,식비,Office Cafe,68000,Approved,H161,Meals expense
+EX-202605-HR-24,2026-05-25,인사,식비,Office Cafe,"219,000",Approved,H163,Meals expense

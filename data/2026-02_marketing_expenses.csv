@@ -1,0 +1,28 @@
+Transaction ID,Date,Department,Category,Vendor,Amount KRW,Status,Employee ID,Description
+EX-202602-MA-01,2026-02-22,MKT,Software,Slack,"404,000",Approved,M117,Software expense
+EX-202602-MA-02,2026-02-11,마케팅,SaaS,DataCloud Korea,"216,000",승인,M114,Software expense
+EX-202602-MA-03,2026-02-05,MKT,Meals,Baemin,242000,Y,M111,Meals expense
+EX-202602-MA-04,2026-02-19,Marketing,SaaS,Notion,862000,Approved,M107,Software expense
+EX-202602-MA-05,2026-02-04,Marketing,소프트웨어,Slack,412000,승인,M112,Software expense
+EX-202602-MA-06,2026-02-20,Marketing,Ads,Kakao Business,"3,187,000",Y,M106,Advertising expense
+EX-202602-MA-07,2026-02-26,마케팅,Business Travel,Korean Air,293000,Y,M110,Travel expense
+EX-202602-MA-08,2026-02-26,마케팅,식비,Baemin,153000,승인,M108,Meals expense
+EX-202602-MA-09,2026-02-07,Marketing,Business Travel,KORAIL,"347,000",Y,M114,Travel expense
+EX-202602-MA-10,2026-02-22,MKT,Travel,Kakao T,726000,Approved,M117,Travel expense
+EX-202602-MA-11,2026-02-04,마케팅,Business Travel,Kakao T,360000,Y,M114,
+EX-202602-MA-12,2026-02-05,마케팅,Food,Office Cafe,"36,000",Approved,M116,Meals expense
+EX-202602-MA-13,2026-02-25,Marketing,Travel,Kakao T,"550,000",승인,M108,Travel expense
+EX-202602-MA-14,2026-02-21,마케팅,Food,Baemin,"193,000",Y,M107,Meals expense
+EX-202602-MA-15,2026-02-06,마케팅,Software,DataCloud Korea,"358,000",반려,M108,Software expense
+EX-202602-MA-16,2026-02-24,MKT,광고비,Naver Ads,"3,028,000",승인,M114,Advertising expense
+EX-202602-MA-17,2026-02-24,Marketing,Meals,Local Restaurant,134000,Y,M101,Meals expense
+EX-202602-MA-18,2026-02-18,Marketing,Ads,Naver Ads,3482000,Y,M113,Advertising expense
+EX-202602-MA-19,2026-02-08,Marketing,SaaS,DataCloud Korea,427000,Y,M105,Software expense
+EX-202602-MA-20,2026-02-09,MKT,SaaS,DataCloud Korea,104000,Y,M114,Software expense
+EX-202602-MA-21,2026-02-03,MKT,광고비,Seoul Media Lab,2397000,승인,M110,Advertising expense
+EX-202602-MA-22,2026-02-16,마케팅,Business Travel,Korean Air,557000,Approved,M112,
+EX-202602-MA-23,2026-02-06,Marketing,Advertising,Naver Ads,3512000,검토중,M109,Advertising expense
+EX-202602-MA-24,2026-02-16,MKT,Meals,Office Cafe,"22,000",Approved,M113,Meals expense
+EX-202602-MA-25,2026-02-27,마케팅,Travel,Kakao T,"80,000",승인,M112,Travel expense
+EX-202602-MA-26,2026-02-20,Marketing,소프트웨어,DataCloud Korea,"171,000",Review,M109,Software expense
+EX-202602-MA-27,2026-02-22,Marketing,식비,Office Cafe,"214,000",Y,M115,Meals expense

@@ -1,0 +1,22 @@
+전표번호,사용일,부서,항목,거래처,금액(원),승인상태,사번,내역
+EX-202602-OP-01,2026-02-11,OPS,소프트웨어,Notion,"649,000",Approved,O153,Software expense
+EX-202602-OP-02,2026-02-11,운영,Office Supplies,Office Depot,499000,Y,O156,Office Supplies expense
+EX-202602-OP-03,2026-02-26,운영,SaaS,Slack,897000,Y,O143,Software expense
+EX-202602-OP-04,2026-02-20,OPS,L&D,Fast Campus,650000,Y,O157,Training expense
+EX-202602-OP-05,2026-02-19,운영,사무용품,Office Depot,"508,000",Y,O153,Office Supplies expense
+EX-202602-OP-06,2026-02-21,Operations,Delivery,CJ Logistics,"87,000",Approved,O153,Logistics expense
+EX-202602-OP-07,2026-02-05,OPS,Supplies,Coupang Business,244000,승인,O151,Office Supplies expense
+EX-202602-OP-08,2026-02-22,Operations,물류비,Quick Service Seoul,"593,000",승인,O148,Logistics expense
+EX-202602-OP-09,2026-02-01,Operations,Office Supplies,Coupang Business,"311,000",Y,O153,Office Supplies expense
+EX-202602-OP-10,2026-02-27,OPS,소프트웨어,Slack,844000,Y,O146,Software expense
+EX-202602-OP-11,2026-02-14,운영,Office Supplies,Coupang Business,123000,Y,O145,Office Supplies expense
+EX-202602-OP-12,2026-02-18,Operations,교육비,Fast Campus,"1,265,000",Y,O151,Training expense
+EX-202602-OP-13,2026-02-14,운영,SaaS,Slack,"242,000",Y,O141,Software expense
+EX-202602-OP-14,2026-02-24,OPS,물류비,CJ Logistics,185000,Approved,O142,Logistics expense
+EX-202602-OP-15,2026-02-26,운영,Delivery,Quick Service Seoul,1216000,Approved,O156,Logistics expense
+EX-202602-OP-16,2026-02-06,Operations,교육비,Fast Campus,"1,652,000",Y,O141,Training expense
+EX-202602-OP-17,2026-02-19,운영,Software,Notion,112000,Approved,O146,Software expense
+EX-202602-OP-18,2026-02-03,운영,Office Supplies,Office Depot,"60,000",Approved,O153,Office Supplies expense
+EX-202602-OP-19,2026-02-08,OPS,물류비,Lotte Global Logistics,444000,Y,O155,Logistics expense
+EX-202602-OP-20,2026-02-07,운영,Training,Korea Management Institute,1843000,Pending,O153,Training expense
+EX-202602-OP-21,2026-02-09,운영,SaaS,DataCloud Korea,198000,승인,O143,Software expense

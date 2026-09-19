@@ -1,0 +1,21 @@
+Transaction ID,Date,Department,Category,Vendor,Amount KRW,Status,Employee ID,Description
+EX-202604-MA-01,2026-04-20,Marketing,Meals,Baemin,172000,Approved,M117,Meals expense
+EX-202604-MA-02,2026-04-24,Marketing,광고비,Kakao Business,"2,294,000",승인,M116,Advertising expense
+EX-202604-MA-03,2026-04-14,Marketing,소프트웨어,Notion,"431,000",승인,M117,
+EX-202604-MA-04,2026-04-03,MKT,SaaS,Notion,"8,900,000",승인,M116,Software expense
+EX-202604-MA-05,2026-04-22,Marketing,출장비,Korean Air,652000,승인,M104,Travel expense
+EX-202604-MA-06,2026-04-18,Marketing,Travel,Kakao T,"162,000",Y,M105,Travel expense
+EX-202604-MA-07,2026-04-20,Marketing,Food,Local Restaurant,"45,000",승인,M104,Meals expense
+EX-202604-MA-08,2026-04-12,MKT,Meals,Office Cafe,214000,N,M106,Meals expense
+EX-202604-MA-09,2026-04-06,Marketing,SaaS,Notion,"192,000",승인,M109,Software expense
+EX-202604-MA-10,2026-04-22,MKT,Travel,Korean Air,610000,검토중,M109,Travel expense
+EX-202604-MA-11,2026-04-12,MKT,Software,DataCloud Korea,"408,000",Approved,M101,Software expense
+EX-202604-MA-12,2026-04-16,MKT,Advertising,Kakao Business,2364000,Y,M117,
+EX-202604-MA-13,2026-04-11,Marketing,소프트웨어,Slack,"227,000",Review,M107,Software expense
+EX-202604-MA-14,2026-04-13,MKT,Food,Local Restaurant,234000,승인,M108,Meals expense
+EX-202604-MA-15,2026-04-11,MKT,Travel,KORAIL,635000,Y,M111,Travel expense
+EX-202604-MA-16,2026-04-19,MKT,식비,Local Restaurant,"218,000",Approved,M113,Meals expense
+EX-202604-MA-17,2026-04-14,마케팅,Food,Baemin,209000,Y,M105,Meals expense
+EX-202604-MA-18,2026-04-12,마케팅,Advertising,Kakao Business,1487000,Approved,M100,Advertising expense
+EX-202604-MA-19,2026-04-09,Marketing,식비,Local Restaurant,"41,000",승인,M113,Meals expense
+EX-202604-MA-20,2026-04-08,MKT,Meals,Local Restaurant,"232,000",Approved,M114,Meals expense

@@ -1,0 +1,22 @@
+expense_id,transaction_date,team,expense_type,supplier,amount,approval,employee,memo
+EX-202601-SA-01,01/11/2026,SLS,Business Travel,KORAIL,209000,Approved,S123,Travel expense
+EX-202601-SA-02,01/13/2026,SLS,SaaS,Notion,189000,승인,S130,Software expense
+EX-202601-SA-03,01/22/2026,SLS,고객행사,EventWorks,"1,631,000",Y,S127,Client Events expense
+EX-202601-SA-04,01/18/2026,영업,Food,Office Cafe,30000,승인,S124,Meals expense
+EX-202601-SA-05,01/06/2026,SLS,Software,Slack,715000,승인,S122,Software expense
+EX-202601-SA-06,01/15/2026,영업,Client Events,COEX,"2,951,000",Approved,S123,
+EX-202601-SA-07,01/04/2026,영업,식비,Local Restaurant,"56,000",Rejected,S127,Meals expense
+EX-202601-SA-08,01/06/2026,Sales,SaaS,DataCloud Korea,"519,000",승인,S128,
+EX-202601-SA-09,01/10/2026,Sales,Food,Office Cafe,167000,Approved,S124,Meals expense
+EX-202601-SA-10,01/06/2026,SLS,Meals,Local Restaurant,157000,승인,S124,Meals expense
+EX-202601-SA-11,01/02/2026,SLS,Software,DataCloud Korea,"137,000",승인,S135,Software expense
+EX-202601-SA-12,01/08/2026,Sales,식비,Office Cafe,"156,000",반려,S128,Meals expense
+EX-202601-SA-13,01/01/2026,영업,Meals,Office Cafe,253000,승인,S126,Meals expense
+EX-202601-SA-14,01/06/2026,영업,Software,Slack,852000,승인,S133,Software expense
+EX-202601-SA-15,01/17/2026,SLS,Software,Slack,"738,000",Approved,S135,Software expense
+EX-202601-SA-16,01/04/2026,Sales,Meals,Baemin,153000,검토중,S129,Meals expense
+EX-202601-SA-17,01/07/2026,SLS,Meals,Local Restaurant,"147,000",반려,S128,Meals expense
+EX-202601-SA-18,01/11/2026,영업,Meals,Local Restaurant,"114,000",승인,S128,Meals expense
+EX-202601-SA-19,01/23/2026,SLS,식비,Office Cafe,111000,승인,S135,
+EX-202601-SA-20,01/18/2026,SLS,출장비,Korean Air,"685,000",Rejected,S129,Travel expense
+EX-202601-SA-21,01/18/2026,영업,출장비,Korean Air,271000,승인,S131,Travel expense
